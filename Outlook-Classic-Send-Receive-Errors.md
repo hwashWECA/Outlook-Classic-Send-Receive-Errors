@@ -1,3 +1,5 @@
+#Question: why is the OST file so large?
+
 ### Direct Answer
 
 The OST file (`lleyba@goweca.com.ost`) in your screenshot is 47.5 GB, which is large because it syncs all mailbox data (emails, attachments, calendar items, etc.) from your Exchange, IMAP, or Microsoft 365 account (`lleyba@goweca.com`) for offline access. Key reasons for the size include:
